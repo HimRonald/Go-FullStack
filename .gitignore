@@ -8,7 +8,7 @@ node_modules
 *.a
 *.so
 .env
-
+/tmp
 # Folders
 _obj
 _test
