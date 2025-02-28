@@ -1,12 +1,14 @@
 
 .env
 node_modules
-
+/img
+.log
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
 *.so
-
+.env
+/tmp
 # Folders
 _obj
 _test
